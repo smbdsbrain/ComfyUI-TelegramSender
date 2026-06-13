@@ -1,0 +1,9 @@
+# Secrets — never commit real credentials
+telegram_config.json
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Node working files
+tmp/
