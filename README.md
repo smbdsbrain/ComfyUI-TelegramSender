@@ -240,9 +240,4 @@ Sends several videos as a single Telegram **album** via `sendMediaGroup`.
 
 ## License
 
-You can add any license you prefer here, for example MIT:
-
-```text
-MIT License
-Copyright (c) 2025 ...
-```
+Released under the [WTFPL](LICENSE) (Do What The Fuck You Want To Public License), Version 2.
