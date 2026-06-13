@@ -230,14 +230,6 @@ Sends several videos as a single Telegram **album** via `sendMediaGroup`.
 
 ---
 
-## Security & Git Tips
-
-- Do **not** commit `telegram_config.json` to your repository.  
-  Only commit `telegram_config.json.example` and keep real tokens locally.
-- Telegram bot tokens should be treated as secrets. If a token leaks, revoke and regenerate it via **@BotFather**.
-
----
-
 ## License
 
 Released under the [WTFPL](LICENSE) (Do What The Fuck You Want To Public License), Version 2.
